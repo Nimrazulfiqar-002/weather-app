@@ -1,3 +1,3 @@
 # weather-app
 i used visual-crossing-weather Api from rapidapi.com
-https://visual-crossing-weather.p.rapidapi.com
+https://rapidapi.com/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather
